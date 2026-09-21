@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #f4f6fb;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* header */
+.header {
+    background-color: #1e3e5f;
+    color: #fff;
+    padding: 25px;
+    text-align: center;
+}
+
+
+
+
+

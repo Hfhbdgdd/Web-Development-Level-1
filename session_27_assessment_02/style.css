@@ -1,0 +1,16 @@
+* {
+    padding: 10px;
+    margin: 10px;
+}
+
+.coffee {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.coffee img {
+    height: 300px;
+    width: 250px;
+    border-radius: 25px;
+}

@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    padding: 15px;
+    margin: 15px;
+}
+
+.video1, .video2, .video3, .video4 {
+    padding: 10px auto;
+    margin: 10px auto;
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    border: 8px solid #9AECDB;
+    border-radius: 100000000px;
+    background-color: #55E6C1;
+}
+
+body {
+    background-image: url(1479.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 480vh;
+}

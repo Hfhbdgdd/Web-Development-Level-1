@@ -1,0 +1,21 @@
+.container {
+    background-color: aliceblue;
+}
+
+nav {
+    background-color:#0abde3 ;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: yellow;
+    text-decoration: none;
+    margin: 25px;
+    font-weight: bold;
+}
+
+img {
+    margin: 10px;
+    border: 2px solid #d35400;
+}
