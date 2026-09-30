@@ -1,6 +1,7 @@
 * {
     padding: 10px;
     margin: 10px;
+    color: #fff;
 }
 
 .coffee {
@@ -13,4 +14,14 @@
     height: 300px;
     width: 250px;
     border-radius: 25px;
+}
+
+a {
+    background-color: lightseagreen;
+    border-radius: 12px;
+}
+
+h1 {
+    background-color: #4834d4;
+    border-radius: 12px;
 }
