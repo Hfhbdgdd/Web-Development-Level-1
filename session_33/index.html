@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>digital clock</title>
+</head>
+
+<body>
+    <h1>Driver registration</h1>
+
+    <h2>Enter your age:</h2>
+
+    <input type="number" name="age" id="allowance">
+
+    <button id="age_button" onclick="check()"> Check allowance </button>
+
+    <p id="check_result"></p>
+
+    <script>
+        function check() {
+            let age = document.getElementById("allowance").value;
+
+             if (age >=18) {
+           document.getElementById("check_result").innerHTML = "You are allowed";
+        } else {
+           document.getElementById("check_result").innerHTML = "You are not allowed";
+        }
+        }
+    </script>
+</body>
+
+</html>
