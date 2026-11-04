@@ -1,0 +1,25 @@
+* {
+    padding: 12px;
+    margin: 12px;
+}
+
+button {
+    border-radius: 8px;
+}
+
+body {
+    background-image: url("https://dsuj2mkiosyd2.cloudfront.net/project_cover/15f9749df29a6137740fd38414be565e/cover_crop_1200-630.jpg");
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    background-color: white;
+    height: 400px;
+    width: 550px;
+    text-align: center;
+    border-radius: 12px;
+}
